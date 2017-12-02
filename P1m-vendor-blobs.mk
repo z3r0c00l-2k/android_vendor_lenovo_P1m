@@ -399,7 +399,6 @@ PRODUCT_COPY_FILES += \
  vendor/lenovo/P1m/proprietary/lib/hw/audio.a2dp.default.so:system/lib/hw/audio.a2dp.default.so \
  vendor/lenovo/P1m/proprietary/lib/hw/audio_policy.default.so:system/lib/hw/audio_policy.default.so \
  vendor/lenovo/P1m/proprietary/lib/hw/audio.primary.mt6735m.so:system/lib/hw/audio.primary.mt6735m.so \
- vendor/lenovo/P1m/proprietary/lib/hw/bluetooth.default.so:system/lib/hw/bluetooth.default.so \
  vendor/lenovo/P1m/proprietary/lib/hw/camera.mt6735m.so:system/lib/hw/camera.mt6735m.so \
  vendor/lenovo/P1m/proprietary/lib/hw/gps.mt6735m.so:system/lib/hw/gps.mt6735m.so \
  vendor/lenovo/P1m/proprietary/lib/hw/gralloc.default.so:system/lib/hw/gralloc.default.so \
