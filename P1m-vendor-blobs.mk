@@ -358,8 +358,6 @@ PRODUCT_COPY_FILES += \
  vendor/lenovo/P1m/proprietary/lib/mtk-ril.so:system/lib/mtk-ril.so \
  vendor/lenovo/P1m/proprietary/xbin/BGW:system/xbin/BGW \
  vendor/lenovo/P1m/proprietary/xbin/mnld:system/xbin/mnld \
- vendor/lenovo/P1m/proprietary/app/YGPS/YGPS.apk:system/app/YGPS/YGPS.apk \
- vendor/lenovo/P1m/proprietary/app/EngineerMode/EngineerMode.apk:system/app/EngineerMode/EngineerMode.apk \
  vendor/lenovo/P1m/proprietary/etc/audio_param/AudioParamOptions.xml:system/etc/audio_param/AudioParamOptions.xml \
  vendor/lenovo/P1m/proprietary/etc/firmware/catcher_filter_1_lwg_n.bin:system/etc/firmware/catcher_filter_1_lwg_n.bin \
  vendor/lenovo/P1m/proprietary/etc/firmware/dsp_1_lwg_n.bin:system/etc/firmware/dsp_1_lwg_n.bin \
